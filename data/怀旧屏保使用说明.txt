@@ -1,0 +1,9 @@
+Win10系统下，将所有SCR文件和DLL文件解压至C:\Windows\，右键点击任意SCR文件安装即可使用。
+
+DLL屏保系列是Win98系统自带屏保，由每个SCR文件和同名DLL文件组成，同时需要wildlb32.dll和wl32dll.dll两文件支持才能够使用。
+
+在Win10系统中，所有DLL屏保都统一显示为一个名为“Wildlife 32”的屏保，取按字母顺序排列最靠前的一个。
+
+所以只要把你想要使用的DLL屏保的SCR文件和对应的DLL文件改名为001.scr和001.dll即可使用该屏保。
+
+比如如果你想使用神秘之物屏保，只需要把Mystery.scr和Mystery.dll分别重命名为001.scr和001.dll，默认屏保选择“Wildlife 32”就可以了。
