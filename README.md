@@ -1,6 +1,6 @@
-# Win98 怀旧屏保系列
+# Win98 怀旧屏保系列（备份）
 
-来自 知乎, [Seahorse](https://www.zhihu.com/question/31919895/answer/101201842), windows98 版本的屏保？
+来自 知乎 [Seahorse](https://www.zhihu.com/question/31919895/answer/101201842), windows98 版本的屏保？
 
 ## 怀旧屏保使用说明
 
@@ -15,6 +15,8 @@
 > 比如如果你想使用神秘之物屏保，只需要把`Mystery.scr`和`Mystery.dll`分别重命名为`001.scr`和`001.dll`，默认屏保选择“Wildlife 32”就可以了。
 
 ## 屏保列表
+
+![](screen.jpg)
 
 | Index | SCR                      | DLL                      |
 | ----- | ------------------------ | ------------------------ |
